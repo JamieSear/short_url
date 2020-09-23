@@ -1,1 +1,1 @@
-web: gunicorn short_url.wsgi
+web: gunicorn short_url.wsgi.application
